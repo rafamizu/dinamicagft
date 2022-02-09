@@ -1,0 +1,15 @@
+C:\Users\Mizukami\Desktop\Desafio GFT\bin\Debug\net6.0\Desafio GFT.exe
+C:\Users\Mizukami\Desktop\Desafio GFT\bin\Debug\net6.0\Desafio GFT.deps.json
+C:\Users\Mizukami\Desktop\Desafio GFT\bin\Debug\net6.0\Desafio GFT.runtimeconfig.json
+C:\Users\Mizukami\Desktop\Desafio GFT\bin\Debug\net6.0\Desafio GFT.dll
+C:\Users\Mizukami\Desktop\Desafio GFT\bin\Debug\net6.0\ref\Desafio GFT.dll
+C:\Users\Mizukami\Desktop\Desafio GFT\bin\Debug\net6.0\Desafio GFT.pdb
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.csproj.AssemblyReference.cache
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.AssemblyInfoInputs.cache
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.AssemblyInfo.cs
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.csproj.CoreCompileInputs.cache
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.dll
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\ref\Desafio GFT.dll
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.pdb
+C:\Users\Mizukami\Desktop\Desafio GFT\obj\Debug\net6.0\Desafio GFT.genruntimeconfig.cache
